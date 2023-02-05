@@ -15,13 +15,13 @@ https://www.hackingwithswift.com/100/swiftui
 
 ### Days 1-14: Introduction to Swift :heavy_check_mark: 
 - [x] Day 1 – variables, constants, strings, and numbers
-- [ ] Day 2 – Booleans, string interpolation, and checkpoint 1
-- [ ] Day 3 – Arrays, dictionaries, sets, and enums
-- [ ] Day 4 – type annotations and checkpoint 2
-- [ ] Day 5 – if, switch, and the ternary operator
-- [ ] Day 6 – loops, summary, and checkpoint 3
-- [ ] Day 7 – functions, parameters, and return values
-- [ ] Day 8  – default values, throwing functions, and checkpoint 4
+- [x] Day 2 – Booleans, string interpolation, and checkpoint 1
+- [x] Day 3 – Arrays, dictionaries, sets, and enums
+- [x] Day 4 – type annotations and checkpoint 2
+- [x] Day 5 – if, switch, and the ternary operator
+- [x] Day 6 – loops, summary, and checkpoint 3
+- [x] Day 7 – functions, parameters, and return values
+- [x] Day 8  – default values, throwing functions, and checkpoint 4
 - [ ] Day 9  – closures, passing functions into functions, and checkpoint 5
 - [ ] Day 10  – structs, computed properties, and property observers
 - [ ] Day 11 – access control, static properties and methods, and checkpoint 6
