@@ -10,10 +10,10 @@ If you have questions, you can find me on Twitter [@twostraws](https://www.twitt
 ## Yamamoto Note
 https://www.hackingwithswift.com/100/swiftui
 
-### Preparation :white_check_mark:
+### :white_check_mark:　Preparation
 - [x] Day 0 – tips and advice before you start.
 
-### Days 1-14: Introduction to Swift :heavy_check_mark: 
+### :heavy_check_mark: Days 1-14: Introduction to Swift
 - [x] Day 1 – variables, constants, strings, and numbers
 - [x] Day 2 – Booleans, string interpolation, and checkpoint 1
 - [x] Day 3 – Arrays, dictionaries, sets, and enums
@@ -30,11 +30,11 @@ https://www.hackingwithswift.com/100/swiftui
 - [ ] Day 14 – optionals, nil coalescing, and checkpoint 9
  
 
-### Day 15: Consolidation I :heavy_check_mark: 
+### :heavy_check_mark: Day 15: Consolidation I 
 - [ ] Day 15 – Swift review
  
 
-### Days 16-24: Starting SwiftUI :heavy_check_mark: 
+### :heavy_check_mark: Days 16-24: Starting SwiftUI
 - [ ] Day 16 – Project 1, part one
 - [ ] Day 17 – Project 1, part two
 - [ ] Day 18 – Project 1, part three
@@ -46,10 +46,10 @@ https://www.hackingwithswift.com/100/swiftui
 - [ ] Day 24 – Project 3, part two
  
 
-### Day 25: Consolidation II :heavy_check_mark: 
+### :heavy_check_mark: Day 25: Consolidation II 
 - [ ] Day 25 – Milestone: Projects 1-3
  
-### Days 26-34: Expanding your skills :heavy_check_mark: 
+### :heavy_check_mark: Days 26-34: Expanding your skills
 - [ ] Day 26 – Project 4, part one
 - [ ] Day 27 – Project 4, part two
 - [ ] Day 28 – Project 4, part three
