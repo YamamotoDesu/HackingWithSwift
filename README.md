@@ -22,8 +22,8 @@ https://www.hackingwithswift.com/100/swiftui
 - [x] Day 6 – loops, summary, and checkpoint 3
 - [x] Day 7 – functions, parameters, and return values
 - [x] Day 8  – default values, throwing functions, and checkpoint 4
-- [ ] Day 9  – closures, passing functions into functions, and checkpoint 5
-- [ ] Day 10  – structs, computed properties, and property observers
+- [x] Day 9  – closures, passing functions into functions, and checkpoint 5
+- [x] Day 10  – structs, computed properties, and property observers
 - [ ] Day 11 – access control, static properties and methods, and checkpoint 6
 - [ ] Day 12 – classes, inheritance, and checkpoint 7
 - [ ] Day 13 – protocols, extensions, and checkpoint 8
