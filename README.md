@@ -13,7 +13,7 @@ https://www.hackingwithswift.com/100/swiftui
 ### :white_check_mark:　Preparation
 - [x] Day 0 – tips and advice before you start.
 
-### :heavy_check_mark: Days 1-14: Introduction to Swift
+### :white_check_mark:　Days 1-14: Introduction to Swift
 - [x] Day 1 – variables, constants, strings, and numbers
 - [x] Day 2 – Booleans, string interpolation, and checkpoint 1
 - [x] Day 3 – Arrays, dictionaries, sets, and enums
@@ -25,13 +25,13 @@ https://www.hackingwithswift.com/100/swiftui
 - [x] Day 9  – closures, passing functions into functions, and checkpoint 5
 - [x] Day 10  – structs, computed properties, and property observers
 - [x] Day 11 – access control, static properties and methods, and checkpoint 6
-- [ ] Day 12 – classes, inheritance, and checkpoint 7
-- [ ] Day 13 – protocols, extensions, and checkpoint 8
-- [ ] Day 14 – optionals, nil coalescing, and checkpoint 9
+- [x] Day 12 – classes, inheritance, and checkpoint 7
+- [x] Day 13 – protocols, extensions, and checkpoint 8
+- [x] Day 14 – optionals, nil coalescing, and checkpoint 9
  
 
-### :heavy_check_mark: Day 15: Consolidation I 
-- [ ] Day 15 – Swift review
+### :white_check_mark:　Day 15: Consolidation I 
+- [x] Day 15 – Swift review
  
 
 ### :heavy_check_mark: Days 16-24: Starting SwiftUI
