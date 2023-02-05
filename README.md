@@ -9,7 +9,11 @@ If you have questions, you can find me on Twitter [@twostraws](https://www.twitt
 --------
 ## Yamamoto Note
 https://www.hackingwithswift.com/100/swiftui
-### Days 1-14: Introduction to Swift :white_check_mark:
+
+### Preparation :white_check_mark:
+- [x] Day 0 – tips and advice before you start.
+
+### Days 1-14: Introduction to Swift :heavy_check_mark: 
 - [x] Day 1 – variables, constants, strings, and numbers
 - [ ] Day 2 – Booleans, string interpolation, and checkpoint 1
 - [ ] Day 3 – Arrays, dictionaries, sets, and enums
