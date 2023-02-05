@@ -8,7 +8,7 @@ If you have questions, you can find me on Twitter [@twostraws](https://www.twitt
 
 --------
 ## Yamamoto Note
-### Days 1-14: Introduction to Swift
+### Days 1-14: Introduction to Swift :white_check_mark:
 - [x] Day 1 – variables, constants, strings, and numbers
 - [ ] Day 2 – Booleans, string interpolation, and checkpoint 1
 - [ ] Day 3 – Arrays, dictionaries, sets, and enums
@@ -25,11 +25,11 @@ If you have questions, you can find me on Twitter [@twostraws](https://www.twitt
 - [ ] Day 14 – optionals, nil coalescing, and checkpoint 9
  
 
-### Day 15: Consolidation I
+### Day 15: Consolidation I :heavy_check_mark: 
 - [ ] Day 15 – Swift review
  
 
-### Days 16-24: Starting SwiftUI
+### Days 16-24: Starting SwiftUI :heavy_check_mark: 
 - [ ] Day 16 – Project 1, part one
 - [ ] Day 17 – Project 1, part two
 - [ ] Day 18 – Project 1, part three
@@ -41,10 +41,10 @@ If you have questions, you can find me on Twitter [@twostraws](https://www.twitt
 - [ ] Day 24 – Project 3, part two
  
 
-### Day 25: Consolidation II
+### Day 25: Consolidation II :heavy_check_mark: 
 - [ ] Day 25 – Milestone: Projects 1-3
  
-### Days 26-34: Expanding your skills
+### Days 26-34: Expanding your skills :heavy_check_mark: 
 - [ ] Day 26 – Project 4, part one
 - [ ] Day 27 – Project 4, part two
 - [ ] Day 28 – Project 4, part three
@@ -56,11 +56,11 @@ If you have questions, you can find me on Twitter [@twostraws](https://www.twitt
 - [ ] Day 34 – Project 6, part three
  
 
-### Day 35: Consolidation III
+### Day 35: Consolidation III :heavy_check_mark: 
 - [ ] Day 35 – Milestone: Projects 4-6
  
 
-Days 36-46: Scaling up to bigger apps
+Days 36-46: Scaling up to bigger apps :heavy_check_mark: 
 - [ ] Day 36 – Project 7, part one
 - [ ] Day 37 – Project 7, part two
 - [ ] Day 38 – Project 7, part three
@@ -74,12 +74,12 @@ Days 36-46: Scaling up to bigger apps
 - [ ] Day 46 – Project 9, part four
  
 
-### Days 47-48: Consolidation IV
+### Days 47-48: Consolidation IV :heavy_check_mark: 
 - [ ] Day 47 – Milestone: Projects 7-9
 Day 48 – Expanding your horizons
  
 
-### Days 49-59: Focus on data
+### Days 49-59: Focus on data :heavy_check_mark: 
 - [ ] Day 49 – Project 10, part one
 - [ ] Day 50 – Project 10, part two
 - [ ] Day 51 – Project 10, part three
@@ -92,11 +92,11 @@ Day 48 – Expanding your horizons
 - [ ] Day 58 – Project 12, part two
 - [ ] Day 59 – Project 12, part three
  
-### Days 60-61: Consolidation V
+### Days 60-61: Consolidation V :heavy_check_mark: 
 - [ ] Day 60 – Milestone: Projects 10-12
 - [ ] Day 61 – Time for Core Data
  
-### Days 62-76: Views and view controllers
+### Days 62-76: Views and view controllers :heavy_check_mark: 
 - [ ] Day 62 – Project 13, part one
 - [ ] Day 63 – Project 13, part two
 - [ ] Day 64 – Project 13, part three
@@ -113,11 +113,11 @@ Day 48 – Expanding your horizons
 - [ ] Day 75 – Project 15, part two
 - [ ] Day 76 – Project 15, part three
  
-Days 77-78: Consolidation VI
+Days 77-78: Consolidation VI :heavy_check_mark: 
 - [ ] Day 77 – Milestone: Projects 13-15
 - [ ] Day 78 – Time for MapKit
  
-### Days 79-94: Controlling UI flow
+### Days 79-94: Controlling UI flow :heavy_check_mark: 
 - [ ] Day 79 – Project 16, part one
 - [ ] Day 80 – Project 16, part two
 - [ ] Day 81 – Project 16, part three
@@ -135,18 +135,18 @@ Days 77-78: Consolidation VI
 - [ ] Day 93 – Project 18, part two
 - [ ] Day 94 – Project 18, part three
  
-### Days 95: Consolidation VII
+### Days 95: Consolidation VII :heavy_check_mark: 
 
 - [ ] Day 95 – Milestone: Projects 16-18
  
-### Days 96-99: One last project
+### Days 96-99: One last project :heavy_check_mark: 
 
 - [ ] Day 96 – Project 19, part one
 - [ ] Day 97 – Project 19, part two
 - [ ] Day 98 – Project 19, part three
 - [ ] Day 99 – Project 19, part four
 
-### Wrap up
+### Wrap up :heavy_check_mark: 
 - [ ] Day 100 – Final exam
 
 --------
