@@ -9,12 +9,12 @@ If you have questions, you can find me on Twitter [@twostraws](https://www.twitt
 --------
 ## Yamamoto Note
 ### Days 1-14: Introduction to Swift :white_check_mark:
-- [x] Day 1 – variables, constants, strings, and numbers
-- [ ] Day 2 – Booleans, string interpolation, and checkpoint 1
-- [ ] Day 3 – Arrays, dictionaries, sets, and enums
-- [ ] Day 4 – type annotations and checkpoint 2
-- [ ] Day 5 – if, switch, and the ternary operator
-- [ ] Day 6 – loops, summary, and checkpoint 3
+- [x] [Day 1](https://www.hackingwithswift.com/100/swiftui/1) – variables, constants, strings, and numbers
+- [ ] [Day 2](https://www.hackingwithswift.com/100/swiftui/2) – Booleans, string interpolation, and checkpoint 1
+- [ ] [Day 3](https://www.hackingwithswift.com/100/swiftui/3) – Arrays, dictionaries, sets, and enums
+- [ ] [Day 4](https://www.hackingwithswift.com/100/swiftui/4) – type annotations and checkpoint 2
+- [ ] [Day 5](https://www.hackingwithswift.com/100/swiftui/5) – if, switch, and the ternary operator
+- [ ] [Day 6](https://www.hackingwithswift.com/100/swiftui/6) – loops, summary, and checkpoint 3
 - [ ] Day 7 – functions, parameters, and return values
 - [ ] Day 8 – default values, throwing functions, and checkpoint 4
 - [ ] Day 9 – closures, passing functions into functions, and checkpoint 5
