@@ -65,7 +65,7 @@ https://www.hackingwithswift.com/100/swiftui
 - [ ] Day 35 – Milestone: Projects 4-6
  
 
-Days 36-46: Scaling up to bigger apps :heavy_check_mark: 
+### :heavy_check_mark: Days 36-46: Scaling up to bigger apps
 - [ ] Day 36 – Project 7, part one
 - [ ] Day 37 – Project 7, part two
 - [ ] Day 38 – Project 7, part three
@@ -79,12 +79,12 @@ Days 36-46: Scaling up to bigger apps :heavy_check_mark:
 - [ ] Day 46 – Project 9, part four
  
 
-### Days 47-48: Consolidation IV :heavy_check_mark: 
+### :heavy_check_mark: Days 47-48: Consolidation IV 
 - [ ] Day 47 – Milestone: Projects 7-9
 Day 48 – Expanding your horizons
  
 
-### Days 49-59: Focus on data :heavy_check_mark: 
+### :heavy_check_mark: Days 49-59: Focus on data 
 - [ ] Day 49 – Project 10, part one
 - [ ] Day 50 – Project 10, part two
 - [ ] Day 51 – Project 10, part three
@@ -97,11 +97,11 @@ Day 48 – Expanding your horizons
 - [ ] Day 58 – Project 12, part two
 - [ ] Day 59 – Project 12, part three
  
-### Days 60-61: Consolidation V :heavy_check_mark: 
+### :heavy_check_mark: Days 60-61: Consolidation V
 - [ ] Day 60 – Milestone: Projects 10-12
 - [ ] Day 61 – Time for Core Data
  
-### Days 62-76: Views and view controllers :heavy_check_mark: 
+### :heavy_check_mark: Days 62-76: Views and view controllers
 - [ ] Day 62 – Project 13, part one
 - [ ] Day 63 – Project 13, part two
 - [ ] Day 64 – Project 13, part three
@@ -118,11 +118,11 @@ Day 48 – Expanding your horizons
 - [ ] Day 75 – Project 15, part two
 - [ ] Day 76 – Project 15, part three
  
-Days 77-78: Consolidation VI :heavy_check_mark: 
+### :heavy_check_mark: Days 77-78: Consolidation VI 
 - [ ] Day 77 – Milestone: Projects 13-15
 - [ ] Day 78 – Time for MapKit
  
-### Days 79-94: Controlling UI flow :heavy_check_mark: 
+### :heavy_check_mark: Days 79-94: Controlling UI flow
 - [ ] Day 79 – Project 16, part one
 - [ ] Day 80 – Project 16, part two
 - [ ] Day 81 – Project 16, part three
@@ -140,18 +140,18 @@ Days 77-78: Consolidation VI :heavy_check_mark:
 - [ ] Day 93 – Project 18, part two
 - [ ] Day 94 – Project 18, part three
  
-### Days 95: Consolidation VII :heavy_check_mark: 
+### :heavy_check_mark: Days 95: Consolidation VII 
 
 - [ ] Day 95 – Milestone: Projects 16-18
  
-### Days 96-99: One last project :heavy_check_mark: 
+### :heavy_check_mark: Days 96-99: One last project
 
 - [ ] Day 96 – Project 19, part one
 - [ ] Day 97 – Project 19, part two
 - [ ] Day 98 – Project 19, part three
 - [ ] Day 99 – Project 19, part four
 
-### Wrap up :heavy_check_mark: 
+### :heavy_check_mark: Wrap up 
 - [ ] Day 100 – Final exam
 
 --------
