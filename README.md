@@ -35,7 +35,7 @@ https://www.hackingwithswift.com/100/swiftui
  
 
 ### :heavy_check_mark: Days 16-24: Starting SwiftUI
-- [ ] Day 16 – Project 1, part one
+- [x] Day 16 – Project 1, part one
 - [ ] Day 17 – Project 1, part two
 - [ ] Day 18 – Project 1, part three
 - [ ] Day 19 – Challenge day
