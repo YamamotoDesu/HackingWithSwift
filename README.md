@@ -34,25 +34,25 @@ https://www.hackingwithswift.com/100/swiftui
 - [x] Day 15 – Swift review
  
 
-### :heavy_check_mark: Days 16-24: Starting SwiftUI
+### :white_check_mark: Days 16-24: Starting SwiftUI
 - [x] Day 16 – Project 1, part one
-- [ ] Day 17 – Project 1, part two
-- [ ] Day 18 – Project 1, part three
-- [ ] Day 19 – Challenge day
-- [ ] Day 20 – Project 2, part one
-- [ ] Day 21 – Project 2, part two
-- [ ] Day 22 – Project 2, part three
-- [ ] Day 23 – Project 3, part one
-- [ ] Day 24 – Project 3, part two
+- [x] Day 17 – Project 1, part two
+- [x] Day 18 – Project 1, part three
+- [x] Day 19 – Challenge day
+- [x] Day 20 – Project 2, part one
+- [x] Day 21 – Project 2, part two
+- [x] Day 22 – Project 2, part three
+- [x] Day 23 – Project 3, part one
+- [x] Day 24 – Project 3, part two
  
 
-### :heavy_check_mark: Day 25: Consolidation II 
-- [ ] Day 25 – Milestone: Projects 1-3
+### :white_check_mark: Day 25: Consolidation II 
+- [x] Day 25 – Milestone: Projects 1-3
  
 ### :heavy_check_mark: Days 26-34: Expanding your skills
-- [ ] Day 26 – Project 4, part one
-- [ ] Day 27 – Project 4, part two
-- [ ] Day 28 – Project 4, part three
+- [x] Day 26 – Project 4, part one
+- [x] Day 27 – Project 4, part two
+- [x] Day 28 – Project 4, part three
 - [ ] Day 29 – Project 5, part one
 - [ ] Day 30 – Project 5, part two
 - [ ] Day 31 – Project 5, part three
