@@ -61,7 +61,7 @@ https://www.hackingwithswift.com/100/swiftui
 - [ ] Day 34 – Project 6, part three
  
 
-### Day 35: Consolidation III :heavy_check_mark: 
+### :heavy_check_mark: Day 35: Consolidation III 
 - [ ] Day 35 – Milestone: Projects 4-6
  
 
