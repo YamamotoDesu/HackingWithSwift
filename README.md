@@ -56,9 +56,9 @@ https://www.hackingwithswift.com/100/swiftui
 - [x] Day 29 – Project 5, part one
 - [x] Day 30 – Project 5, part two
 - [x] Day 31 – Project 5, part three
-- [ ] Day 32 – Project 6, part one
-- [ ] Day 33 – Project 6, part two
-- [ ] Day 34 – Project 6, part three
+- [x] Day 32 – Project 6, part one
+- [x] Day 33 – Project 6, part two
+- [x] Day 34 – Project 6, part three
  
 
 ### :heavy_check_mark: Day 35: Consolidation III 
