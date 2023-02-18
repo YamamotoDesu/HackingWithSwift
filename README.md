@@ -49,7 +49,7 @@ https://www.hackingwithswift.com/100/swiftui
 ### :white_check_mark: Day 25: Consolidation II 
 - [x] Day 25 – Milestone: Projects 1-3
  
-### :heavy_check_mark: Days 26-34: Expanding your skills
+### :white_check_mark: Days 26-34: Expanding your skills
 - [x] Day 26 – Project 4, part one
 - [x] Day 27 – Project 4, part two
 - [x] Day 28 – Project 4, part three
