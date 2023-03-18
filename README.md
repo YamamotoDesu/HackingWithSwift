@@ -73,7 +73,7 @@ https://www.hackingwithswift.com/100/swiftui
 - [x] Day 41 – Project 8, part three
 - [x] Day 42 – Project 8, part four
 - [x] Day 43 – Project 9, part one
-- [ ] Day 44 – Project 9, part two
+- [x] Day 44 – Project 9, part two
 - [ ] Day 45 – Project 9, part three
 - [ ] Day 46 – Project 9, part four
  
