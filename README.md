@@ -64,7 +64,7 @@ https://www.hackingwithswift.com/100/swiftui
 - [x] Day 35 – Milestone: Projects 4-6
  
 
-### :heavy_check_mark: Days 36-46: Scaling up to bigger apps
+### :white_check_mark: Days 36-46: Scaling up to bigger apps
 - [x] Day 36 – Project 7, part one
 - [x] Day 37 – Project 7, part two
 - [x] Day 38 – Project 7, part three
@@ -74,8 +74,8 @@ https://www.hackingwithswift.com/100/swiftui
 - [x] Day 42 – Project 8, part four
 - [x] Day 43 – Project 9, part one
 - [x] Day 44 – Project 9, part two
-- [ ] Day 45 – Project 9, part three
-- [ ] Day 46 – Project 9, part four
+- [x] Day 45 – Project 9, part three
+- [x] Day 46 – Project 9, part four
  
 
 ### :heavy_check_mark: Days 47-48: Consolidation IV 
