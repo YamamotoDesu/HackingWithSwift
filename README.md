@@ -78,8 +78,8 @@ https://www.hackingwithswift.com/100/swiftui
 - [x] Day 46 – Project 9, part four
  
 
-### :heavy_check_mark: Days 47-48: Consolidation IV 
-- [ ] Day 47 – Milestone: Projects 7-9
+### :white_check_mark: Days 47-48: Consolidation IV 
+- [x] Day 47 – Milestone: Projects 7-9
 Day 48 – Expanding your horizons
  
 
