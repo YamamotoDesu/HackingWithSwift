@@ -85,10 +85,10 @@ Day 48 – Expanding your horizons
 
 ### :heavy_check_mark: Days 49-59: Focus on data 
 - [x] Day 49 – Project 10, part one
-- [ ] Day 50 – Project 10, part two
-- [ ] Day 51 – Project 10, part three
-- [ ] Day 52 – Project 10, part four
-- [ ] Day 53 – Project 11, part one
+- [x] Day 50 – Project 10, part two
+- [x] Day 51 – Project 10, part three
+- [x] Day 52 – Project 10, part four
+- [x] Day 53 – Project 11, part one
 - [ ] Day 54 – Project 11, part two
 - [ ] Day 55 – Project 11, part three
 - [ ] Day 56 – Project 11, part four
