@@ -89,9 +89,9 @@ Day 48 – Expanding your horizons
 - [x] Day 51 – Project 10, part three
 - [x] Day 52 – Project 10, part four
 - [x] Day 53 – Project 11, part one
-- [ ] Day 54 – Project 11, part two
-- [ ] Day 55 – Project 11, part three
-- [ ] Day 56 – Project 11, part four
+- [x] Day 54 – Project 11, part two
+- [x] Day 55 – Project 11, part three
+- [x] Day 56 – Project 11, part four
 - [ ] Day 57 – Project 12, part one
 - [ ] Day 58 – Project 12, part two
 - [ ] Day 59 – Project 12, part three
